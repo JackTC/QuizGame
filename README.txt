@@ -1,7 +1,7 @@
 Author: Angel Alferez Aroca
 
 Program: Custom Quiz game.
-Languaje: XCode - Iphone/Ipad App
+Language: XCode - Iphone/Ipad App
 
 
 Description:
